@@ -1,0 +1,164 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+   margin: 0%;
+   font-family: system-ui;
+}
+.logo{
+    width: 50%;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.fb{
+    position: relative;
+    color: #fff;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: system-ui;
+    margin-left: 200px;
+    left: 100px;
+    top: 27px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+   
+    
+}
+.login-controls{
+    left: 130px;
+    position: relative;
+    top: 4px;
+}
+.forgott{
+    color: #9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+.login8{
+    background-color: #29487d;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.login8:hover{
+    background: rgb(0, 195, 255);
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #d3d8e8);
+    width: 100%;
+    height: 644px;
+    
+}
+.img{
+    width: 484px;
+    height: 347px;
+    float: left;
+    padding-left: 205px;
+}
+.ppp{
+    padding-top: 68px;
+    padding-left: 210px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.h1{
+    font-size: 33px;
+    padding-left: 117px;
+    padding-top: 48px;
+}
+.p{
+    padding-left: 123px;
+    margin-top: -19px;
+}
+.form2{
+    margin-left: 8px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+.form3{
+    width: 345px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+.form1{
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+.form4{
+    border-radius: 3px;
+    width: 345px;
+    margin-bottom: 5px;
+}
+.fir{
+    padding-left: 131px;
+}
+.bt{
+    font-weight: bold;
+    color: #91abd4b7;
+    padding-left: 124px;
+    padding-right: 0px;
+}
+.selecter1{
+    margin-left: 131px;
+    height: 23px;
+    width: 47px;
+    border-radius: 5px;
+}
+.selecter2{
+    height: 23px;
+    width: 61px;
+    border-radius: 5px;
+}
+.selecter3{
+    height: 23px;
+    width: 53px;
+    border-radius: 5px;
+}
+.gd{
+    font-weight: bold;
+}
+.container9{
+    display: flex;
+    gap: 10px; 
+    margin-left: 15px;
+    font-size: 19px;
+    font-weight: 600;
+}
+.pp6{
+    margin-left: 136px;
+}
+.pss{
+    margin-left: 133px;
+}
+.rrr{
+        margin-top: 20px;
+        height: 38px;
+        width: 170px;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 600;
+        border: 1px solid #006117;
+        border-radius: 3px;
+        cursor: pointer;
+        outline: none;
+        background: linear-gradient(#6fad5a,#66a150,#60974c);
+        margin-left: 127px;
+}
